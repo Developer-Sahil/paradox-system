@@ -276,7 +276,7 @@ This is a personal portfolio project, but feedback and suggestions are welcome! 
 **Sahil Sharma**
 
 - Website: [Your Website]
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [Developer-Sahil](https://github.com/yourusername)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
